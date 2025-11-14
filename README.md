@@ -78,10 +78,7 @@ endmodule
 ```
 ### 4-bit Ripple Carry Adder Simulation Output 
 
------
------
------
------
+
 <img width="1038" height="658" alt="image" src="https://github.com/user-attachments/assets/9e9598b4-695b-4090-8be4-d6772529b648" />
 
 
@@ -126,10 +123,7 @@ endmodule
 
 ```
 ### 4-bit Ripple Counter Simulation output 
------
------
------
------
+
 <img width="1038" height="656" alt="image" src="https://github.com/user-attachments/assets/8db2caa4-7934-43b9-895f-42c89d197cc1" />
 
 
